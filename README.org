@@ -1,0 +1,2 @@
+* lila-assets
+** Assets extracted from https://github.com/ornicar/lila
